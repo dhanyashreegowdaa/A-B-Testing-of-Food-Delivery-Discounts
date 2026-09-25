@@ -7,7 +7,7 @@ The project uses a simulated dataset of **100 customers**, divided into two grou
 * **Group A:** 10% discount
 * **Group B:** 20% discount
 
-A statistical test is then performed to determine whether the difference in order rates is statistically significant.
+A statistical test is then performed to determine whether the difference in order rates is statistically significant. 
 
 ---
 
