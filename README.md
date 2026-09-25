@@ -17,5 +17,7 @@ A statistical test is then performed to determine whether the difference in orde
 * Calculate the order/response rate for each group.
 * Form
 
-to run:python -m pip install pandas numpy matplotlib scipy
+To run:  
+       
+       python -m pip install pandas numpy matplotlib scipy
        python ab_testing.py
